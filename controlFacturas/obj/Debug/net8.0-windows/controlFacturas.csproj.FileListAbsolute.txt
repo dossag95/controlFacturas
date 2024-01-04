@@ -1,0 +1,17 @@
+C:\Users\dossa\OneDrive\Documentos\C#\controlFacturas\controlFacturas\obj\Debug\net8.0-windows\controlFacturas.frmFacturas.resources
+C:\Users\dossa\OneDrive\Documentos\C#\controlFacturas\controlFacturas\obj\Debug\net8.0-windows\controlFacturas.csproj.GenerateResource.cache
+C:\Users\dossa\OneDrive\Documentos\C#\controlFacturas\controlFacturas\obj\Debug\net8.0-windows\controlFacturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dossa\OneDrive\Documentos\C#\controlFacturas\controlFacturas\obj\Debug\net8.0-windows\controlFacturas.AssemblyInfoInputs.cache
+C:\Users\dossa\OneDrive\Documentos\C#\controlFacturas\controlFacturas\obj\Debug\net8.0-windows\controlFacturas.AssemblyInfo.cs
+C:\Users\dossa\OneDrive\Documentos\C#\controlFacturas\controlFacturas\obj\Debug\net8.0-windows\controlFacturas.csproj.CoreCompileInputs.cache
+C:\Users\dossa\OneDrive\Documentos\C#\controlFacturas\controlFacturas\obj\Debug\net8.0-windows\controlFacturas.sourcelink.json
+C:\Users\dossa\OneDrive\Documentos\C#\controlFacturas\controlFacturas\bin\Debug\net8.0-windows\controlFacturas.exe
+C:\Users\dossa\OneDrive\Documentos\C#\controlFacturas\controlFacturas\bin\Debug\net8.0-windows\controlFacturas.deps.json
+C:\Users\dossa\OneDrive\Documentos\C#\controlFacturas\controlFacturas\bin\Debug\net8.0-windows\controlFacturas.runtimeconfig.json
+C:\Users\dossa\OneDrive\Documentos\C#\controlFacturas\controlFacturas\bin\Debug\net8.0-windows\controlFacturas.dll
+C:\Users\dossa\OneDrive\Documentos\C#\controlFacturas\controlFacturas\bin\Debug\net8.0-windows\controlFacturas.pdb
+C:\Users\dossa\OneDrive\Documentos\C#\controlFacturas\controlFacturas\obj\Debug\net8.0-windows\controlFacturas.dll
+C:\Users\dossa\OneDrive\Documentos\C#\controlFacturas\controlFacturas\obj\Debug\net8.0-windows\refint\controlFacturas.dll
+C:\Users\dossa\OneDrive\Documentos\C#\controlFacturas\controlFacturas\obj\Debug\net8.0-windows\controlFacturas.pdb
+C:\Users\dossa\OneDrive\Documentos\C#\controlFacturas\controlFacturas\obj\Debug\net8.0-windows\controlFacturas.genruntimeconfig.cache
+C:\Users\dossa\OneDrive\Documentos\C#\controlFacturas\controlFacturas\obj\Debug\net8.0-windows\ref\controlFacturas.dll
